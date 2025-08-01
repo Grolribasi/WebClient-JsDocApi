@@ -11,8 +11,8 @@ nav:
 - modules/ROOT/nav.adoc
 ext:
   collector:
-    run:
-      command: "node build-index.js"
+#    run:
+#      command: "node build-index.js"
     scan:
       dir: docs
       files: '*.html'
