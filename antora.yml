@@ -1,0 +1,21 @@
+name: jsdocapi
+version: 'dev'
+display_version: 'dev'
+prerelease: true
+title: Справочник JavaScript API модуля Web-клиент
+asciidoc:
+  attributes:
+    att: 'val'
+
+nav:
+- modules/ROOT/nav.adoc
+ext:
+  collector:
+    run:
+      command: ./node ./build-index.js
+    scan:
+      dir: build/generated
+      files: '**/docs/*.html'
+      into: modules/ROOT/pages
+
+#  start_page: ROOT:index.adoc
