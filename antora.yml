@@ -14,8 +14,8 @@ ext:
 #    run:
 #      command: ./node ./build-index.js
     scan:
-      dir: build/generated
-      files: '**/docs/*.html'
+      dir: ./docs
+      files: '*.html'
       into: modules/ROOT/pages
 
 #  start_page: ROOT:index.adoc
