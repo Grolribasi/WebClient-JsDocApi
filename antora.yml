@@ -12,7 +12,7 @@ nav:
 ext:
   collector:
     run:
-      command: node build-index.js
+      command: "node build-index.js"
     scan:
       dir: docs
       files: '*.html'

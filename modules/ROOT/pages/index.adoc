@@ -1,0 +1,19 @@
+= Справочник JavaScript API модуля {wc}
+
+Данный ресурс содержит полное описание членов JavaScript API модуля {wc}. JS API предоставляет возможность разрабатывать скрипты для карточек {wc}а.
+
+Справочник не является руководством по разработке на базе модуля {wc} (см. "xref:programmer:WebClient:index.adoc[{dv} 5. {wc}. Руководство разработчика]").
+
+Справочник рассчитан на разработчиков, знакомых с программированием на JavaScript и объектно-ориентированной парадигмой разработки.
+
+Информация, представленная в документе, актуальна для модуля "{dv} 5. {wc}" версии 5.5.17.
+
+== Содержание
+
+* https://docsvision.com/docs/webclient/5.5.17/JsDocApi/index.html[Домашняя страница]
+* https://docsvision.com/docs/webclient/5.5.17/JsDocApi/globals.html[Описание членов JavaScript API]
+* https://github.com/docsvision/WebClient-Samples[Примеры расширений модуля {wc}]
+* http://docsvision.com[Сайт docsvision]
+* https://docsvision.com/docs/webclient/5.5.16/JsDocApi/index.html[Документация JavaScript API для WebClient версии 16]
+* https://docsvision.com/docs/webclient/5.5.15/JsDocApi/index.html[Документация JavaScript API для WebClient версии 15]
+* https://docsvision.com/docs/webclient/5.5.14/JsDocApi/index.html[Документация JavaScript API для WebClient версии 14]
