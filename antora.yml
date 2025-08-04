@@ -16,6 +16,6 @@ ext:
     scan:
       dir: docs/
       files: '*.html'
-      into: modules/ROOT/pages
+      into: modules/ROOT/attachments
 
 #  start_page: ROOT:index.adoc
