@@ -14,8 +14,8 @@ ext:
     run:
       command: ""
     scan:
-    - dir: docs/
-      files: '**/*.html'
+    - dir: 'docs/**/'
+      files: '*.html'
       into: modules/ROOT/attachments
 
 #  start_page: ROOT:index.adoc
