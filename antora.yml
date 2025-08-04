@@ -14,7 +14,11 @@ ext:
     run:
       command: ""
     scan:
-      dir: 'docs/*'
+    - dir: docs/
+    - dir: docs/modules
+    - dir: docs/interfaces
+    - dir: docs/enums
+    - dir: docs/classes
       files: '*.html'
       into: modules/ROOT/attachments
 
