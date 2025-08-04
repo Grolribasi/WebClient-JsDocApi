@@ -13,7 +13,7 @@ ext:
   collector:
     scan:
       dir: ./docs
-      files: '**/*.html'
+#      files: '**/*.html'
       into: modules/ROOT/attachments
 
 #  start_page: ROOT:index.adoc
